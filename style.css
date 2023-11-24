@@ -1,0 +1,39 @@
+ <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+
+    nav {
+      text-align: center;
+      background-color: #333;
+      color: white;
+      padding: 1em;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+    }
+
+    section {
+      text-align: center;
+      padding: 2em;
+    }
+
+    img {
+      display: block;
+      margin: auto;
+      border-radius: 50%;
+    }
+  </style>
