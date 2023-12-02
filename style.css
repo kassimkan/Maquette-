@@ -172,26 +172,34 @@ div.portfolio{
 
 <div style="width: 100%; height: 100%; position: relative; background: white;">
 
-<div style="width: 100%; height: 100%; position: relative; background: white;">
    
-    <img style="width: 233px; height: 308px; left: 262px; top: 1195px; position: absolute;" />
-    <img style="width: 233px; height: 309px; left: 607px; top: 1199px; position: absolute;" />
-    <img style="width: 233px; height: 308px; left: 954px; top: 1199px; position: absolute;" />
-
-
       <div style="width: 415.40px; height: 0px; left: 551.30px; top: 1139.60px; position: absolute; transform: rotate(90.33deg); transform-origin: 0 0; border: 1px black solid;"></div>
 <div style="width: 405px; height: 0px; left: 895px; top: 1150px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid;"></div>
 
 <div style="width: 1442px; height: 363px; left: -2px; top: 1606px; position: absolute; background: rgba(51, 26, 0, 0.85); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
-    <div style="width: 706px; height: 55px; left: 634px; top: 46px; position: absolute; color: white; font-size: 34px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 6.80px; word-wrap: break-word;"></div>
-    <img style="width: 346px; height: 196px; left: 139px; top: 78px; position: absolute;" src="Images/468F190B-43D5-444D-8390-4408FCC38BA6 1.png" />
-    <div style="width: 267px; height: 0px; left: 571px; top: 48px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px black solid;"></div>
-    <div style="width: 712px; height: 200px; left: 634px; top: 101px; position: absolute; color: white; font-size: 20px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 4px; word-wrap: break-word;"></div>
-</div>
 
-    <div style="width: 1442px; height: 363px; left: -2px; top: 1606px; position: absolute; background: rgba(51, 26, 0, 0.85); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
-    <div style="width: 706px; height: 55px; left: 634px; top: 46px; position: absolute; color: white; font-size: 34px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 6.80px; word-wrap: break-word;"></div>
-    <img style="width: 346px; height: 196px; left: 139px; top: 78px; position: absolute;" src="Images/468F190B-43D5-444D-8390-4408FCC38BA6 1.png" />
+    div.titre{
+        width: 706px; 
+        height: 55px; 
+        left: 634px; 
+        top: 46px; 
+        position: absolute; 
+        color: white; 
+        font-size: 34px; 
+        font-family: Libre Bodoni; 
+        font-weight: 400; 
+        letter-spacing: 6.80px; 
+        word-wrap: break-word;
+    }
+
+    img.moi{ 
+        width: 346px; 
+        height: 196px; 
+        left: 139px; 
+        top: 78px; 
+        position: absolute;
+    }
+
     <div style="width: 267px; height: 0px; left: 571px; top: 48px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 2px black solid;"></div>
     <div style="width: 712px; height: 200px; left: 634px; top: 101px; position: absolute; color: white; font-size: 20px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 4px; word-wrap: break-word;"></div>
 </div>
@@ -202,6 +210,7 @@ div.portfolio{
 <div style="width: 172px; height: 43px; left: 634px; top: 2309px; position: absolute; background: rgba(51, 26, 0, 0.85);"></div>
 <div style="width: 150px; height: 29px; left: 645px; top: 2309px; position: absolute; text-align: center; color: white; font-size: 35px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 7px; word-wrap: break-word;"></div>
 <div style="width: 451px; height: 43px; left: 234px; top: 2582px; position: absolute; text-align: center; color: rgba(51, 26, 0, 0.85); font-size: 43px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 8.60px; word-wrap: break-word;"></div>
+
 <img style="width: 222px; height: 307px; left: 984px; top: 2492px; position: absolute;" src="Images/MANR7749 1.png" />
 <div style="width: 207px; height: 51px; left: 319px; top: 2826px; position: absolute; background: rgba(51, 26, 0, 0.85);"></div>
 <div style="width: 180px; height: 33px; left: 333px; top: 2835px; position: absolute; text-align: center; color: white; font-size: 23px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 4.60px; word-wrap: break-word;"></div>
