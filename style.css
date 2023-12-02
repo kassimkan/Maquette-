@@ -97,6 +97,17 @@ img.mariage{
     position: absolute;
 }
 
+ div.barre1{
+     width: 424px;
+     height: 0px; 
+     left: 138px; 
+     top: 324px; 
+     position: absolute; 
+     transform: rotate(90deg); 
+     transform-origin: 0 0; 
+     border: 1px black solid;
+ }
+
     img.couple{
         width: 233px;
         height: 309px; 
@@ -104,6 +115,17 @@ img.mariage{
         top: 1199px; 
         position: absolute;
     }
+
+ div.barre2{
+     width: 424px;
+     height: 0px; 
+     left: 138px; 
+     top: 324px; 
+     position: absolute; 
+     transform: rotate(90deg); 
+     transform-origin: 0 0; 
+     border: 1px black solid;
+ }
 
     img.solo{
         width: 233px; 
