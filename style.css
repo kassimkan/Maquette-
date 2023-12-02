@@ -110,6 +110,66 @@ img.mariage{
         position: absolute;
     }
 
+div.m{
+    width: 279px; 
+    height: 46px; 
+    left: 239px; 
+    top: 1530px; 
+    position: absolute; 
+    text-align: center; 
+    color: #663300; 
+    font-size: 30px; 
+    font-family: Libre Bodoni; 
+    font-weight: 400; 
+    letter-spacing: 3px; 
+    word-wrap: break-word;
+}
+
+div.c{
+    width: 231px; 
+    height: 47px; 
+    left: 608px; 
+    top: 1528px; 
+    position: absolute; 
+    text-align: center; 
+    color: #663300; 
+    font-size: 30px; 
+    font-family: Libre Bodoni; 
+    font-weight: 400; 
+    letter-spacing: 3px; 
+    word-wrap: break-word;
+}
+
+div.s{
+    width: 229px; 
+    height: 49px; 
+    left: 958px; 
+    top: 1527px; 
+    position: absolute; 
+    text-align: center; 
+    color: #663300; 
+    font-size: 30px; 
+    font-family: Libre Bodoni; 
+    font-weight: 400; 
+    letter-spacing: 3px; 
+    word-wrap: break-word;
+}
+
+div.portfolio{
+    width: 354px;
+    height: 24px; 
+    left: 541px; 
+    top: 1082px; 
+    position: absolute; 
+    text-align: center; 
+    color: #604020; 
+    font-size: 40px; 
+    font-family: Libre Bodoni; 
+    font-weight: 400; 
+    letter-spacing: 12px;
+    word-wrap: break-word;
+}
+
 <div style="width: 100%; height: 100%; position: relative; background: white;">
 
 <div style="width: 100%; height: 100%; position: relative; background: white;">
@@ -121,10 +181,7 @@ img.mariage{
 
       <div style="width: 415.40px; height: 0px; left: 551.30px; top: 1139.60px; position: absolute; transform: rotate(90.33deg); transform-origin: 0 0; border: 1px black solid;"></div>
 <div style="width: 405px; height: 0px; left: 895px; top: 1150px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid;"></div>
-<div style="width: 279px; height: 46px; left: 239px; top: 1530px; position: absolute; text-align: center; color: #663300; font-size: 30px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 3px; word-wrap: break-word;"></div>
-<div style="width: 231px; height: 47px; left: 608px; top: 1528px; position: absolute; text-align: center; color: #663300; font-size: 30px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 3px; word-wrap: break-word;"></div>
-<div style="width: 229px; height: 49px; left: 958px; top: 1527px; position: absolute; text-align: center; color: #663300; font-size: 30px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 3px; word-wrap: break-word;"></div>
-<div style="width: 354px; height: 24px; left: 541px; top: 1082px; position: absolute; text-align: center; color: #604020; font-size: 40px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 12px; word-wrap: break-word;"></div>
+
 <div style="width: 1442px; height: 363px; left: -2px; top: 1606px; position: absolute; background: rgba(51, 26, 0, 0.85); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
     <div style="width: 706px; height: 55px; left: 634px; top: 46px; position: absolute; color: white; font-size: 34px; font-family: Libre Bodoni; font-weight: 400; letter-spacing: 6.80px; word-wrap: break-word;"></div>
     <img style="width: 346px; height: 196px; left: 139px; top: 78px; position: absolute;" src="Images/468F190B-43D5-444D-8390-4408FCC38BA6 1.png" />
