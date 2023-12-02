@@ -86,31 +86,33 @@ div.lieu{
         font-weight: 400; 
         word-wrap: break-word;
     }
+img.mariage{
+    width: 233px; 
+    height: 308px; 
+    left: 262px; 
+    top: 1195px; 
+    position: absolute;
+}
+
+    img.couple{
+        width: 233px;
+        height: 309px; 
+        left: 607px; 
+        top: 1199px; 
+        position: absolute;
+    }
+
+    img.solo{
+        width: 233px; 
+        height: 308px; 
+        left: 954px; 
+        top: 1199px; 
+        position: absolute;
+    }
 
 <div style="width: 100%; height: 100%; position: relative; background: white;">
 
-</div>
-
-        body {
-            margin: 0;
-        }
-
-        div {
-            box-sizing: border-box;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-
 <div style="width: 100%; height: 100%; position: relative; background: white;">
-   
-    <img style="width: 233px; height: 308px; left: 262px; top: 1195px; position: absolute;" />
-    <img style="width: 233px; height: 309px; left: 607px; top: 1199px; position: absolute;" />
-    <img style="width: 233px; height: 308px; left: 954px; top: 1199px; position: absolute;" />
-
    
     <img style="width: 233px; height: 308px; left: 262px; top: 1195px; position: absolute;" />
     <img style="width: 233px; height: 309px; left: 607px; top: 1199px; position: absolute;" />
