@@ -239,6 +239,21 @@ height: 507px;
     position: absolute;
 }
 
+div.tarfis{
+    width: 150px; 
+    height: 29px; 
+    left: 645px; 
+    top: 2309px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 35px; 
+    font-family: Libre Bodoni;
+    font-weight: 400; 
+    letter-spacing: 7px;
+    word-wrap: break-word;
+}
+
 div.attend{
 width: 749px; 
     height: 57px; 
@@ -265,21 +280,6 @@ div.text{
     font-family: Libre Bodoni; 
     font-weight: 400; 
     letter-spacing: 5.60px; 
-    word-wrap: break-word;
-}
-
-div.tarfis{
-    width: 150px; 
-    height: 29px; 
-    left: 645px; 
-    top: 2309px; 
-    position: absolute; 
-    text-align: center; 
-    color: white; 
-    font-size: 35px; 
-    font-family: Libre Bodoni;
-    font-weight: 400; 
-    letter-spacing: 7px;
     word-wrap: break-word;
 }
 
