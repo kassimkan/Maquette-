@@ -32,8 +32,7 @@ img.photo1 {
 nav.menu{
     width: 906px;
     height: 25px;
-    padding: 50px;
-    left: 0px;
+    padding: left;
     top: 28px;
     position: absolute;
     color: white;
