@@ -1,7 +1,9 @@
 
 body {
-     margin: 0;
+     margin: auto;
+     max-width: 1450px;
 }
+
 
 div {
     box-sizing: border-box;
