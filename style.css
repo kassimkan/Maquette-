@@ -431,3 +431,6 @@ div.tarif{
 div.acceuil{ 
           width: 815px; height: 16px; left: 175px; top: 38px; position: absolute; color: white; font-size: 30px; font-family: Libre Bodoni; font-weight: 400; word-wrap: break-word
       {    
+div.fond2{ 
+           width: 1502px; height: 181px; left: -13px; top: -45px; position: absolute; background: rgba(51, 26, 0, 0.85)
+      { 
