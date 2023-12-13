@@ -422,8 +422,62 @@ div.banderole{
 }
 
 img.logo{ 
-     
+     width: 1440px; 
+     height: 666px; 
+     left: 0px; 
+     top: 880px; 
+     position: absolute;  
+}
 
+div.formulaire{
+     width: 465px; 
+     height: 64px; 
+     left: 138px; 
+     top: 226px; 
+     position: absolute; 
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 64px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+}
+
+div.envoyez{
+     width: 100px; 
+     height: 35px; 
+     left: 164px; 
+     top: 773px; 
+     position: absolute; 
+     color: white; 
+     font-size: 20px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+]
+
+div.texte{
+     width: 447px; 
+     height: 210px; 
+     left: 862px; 
+     top: 283px; 
+     position: absolute
+     color: black; 
+     font-size: 24px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+}
+
+div.texte2{
+     width: 388px; 
+     height: 51px; 
+     left: 862px; 
+     top: 528px; 
+     position: absolute; 
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 64px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+}
+
+     
 /* Page3 */
 
 div.fond{
