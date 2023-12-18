@@ -417,6 +417,15 @@ div.general{
      background: white;
 }
 
+div.general1{
+     width: 1743px; 
+     height: 316px; 
+     left: -191px; 
+     top: 2587px; 
+     position: absolute; 
+     background: rgba(51, 26, 0, 0.85);
+}
+
 div.banderole{
      width: 495px;
      height: 401px;
