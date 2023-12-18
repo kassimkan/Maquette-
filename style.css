@@ -410,6 +410,13 @@ div.tt{
 
 /* Page2  */
 
+div.general{
+     width: 100%; 
+     height: 100%; 
+     position: relative; 
+     background: white;
+}
+
 div.banderole{
      width: 495px;
      height: 401px;
