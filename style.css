@@ -451,7 +451,7 @@ div.envoyez{
      font-size: 20px; 
      font-family: Libre Bodoni; 
      font-weight: 400; 
-]
+}
 
 div.texte{
      width: 447px; 
@@ -477,7 +477,104 @@ div.texte2{
      font-weight: 400; 
 }
 
-     
+img.image{
+     width: 211px; 
+     height: 111px; 
+     left: 51px; 
+     top: 1px; 
+     position: absolute;
+}
+
+div.prénoms1{
+     width: 285px; 
+     height: 765px; 
+     left: 122px; 
+     top: 1688px; 
+     position: absolute; 
+     text-align: center;
+}
+
+div.avis1{
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 40px; 
+     font-family: Libre Bodoni; 
+     font-style: italic; 
+     font-weight: 700; 
+     letter-spacing: 4px;
+}
+
+div.prénoms2{
+     width: 285px; 
+     height: 765px; 
+     left: 982px; 
+     top: 1688px; 
+     position: absolute; 
+     text-align: center; 
+}
+
+div.avis2{
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 40px; 
+     font-family: Libre Bodoni; 
+     font-style: italic; 
+     font-weight: 700; 
+}
+
+div.prénoms3{
+     width: 272px; 
+     height: 634px; 
+     left: 568px; 
+     top: 1701px; 
+     position: absolute; 
+     text-align: center;
+}
+
+div.avis3{
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 40px; 
+     font-family: Libre Bodoni; 
+     font-style: italic; 
+     font-weight: 700;
+}
+
+div.texte3{
+     width: 605px; 
+     height: 52px; 
+     left: 96px; 
+     top: 2642px; 
+     position: absolute; 
+     text-align: center; 
+     color: white; 
+     font-size: 40px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400;
+}
+
+div.informations1{
+     width: 199px; 
+     height: 55px; 
+     left: 96px; 
+     top: 2717px; 
+     position: absolute; 
+     text-align: center; 
+     color: white; 
+     font-size: 40px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+}
+
+div.informations2{
+     width: 407px; 
+     height: 127px; 
+     left: 789px; 
+     top: 2738px; 
+     position: absolute; 
+     color: white; 
+     font-size: 32px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400;
+}
+
 /* Page3 */
 
 div.fond{
