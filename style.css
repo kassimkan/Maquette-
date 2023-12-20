@@ -760,6 +760,13 @@ div.informations21{
      top: 1701px; 
      position: absolute; 
      text-align: center
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 40px; 
+     font-family: Libre Bodoni; 
+     font-style: italic; 
+     font-weight: 700; 
+     word-wrap: break-word
+}
      
 /* Page3 */
 
