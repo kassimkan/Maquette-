@@ -497,6 +497,18 @@ div.general9{
      background: white;
 }
      
+div.informations{
+     width: 605px; 
+     height: 52px; 
+     left: 96px; 
+     top: 2642px; 
+     position: absolute; 
+     text-align: center; 
+     color: white; 
+     font-size: 40px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400;
+}
 
 /* Page3 */
 
