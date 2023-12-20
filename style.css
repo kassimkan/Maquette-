@@ -807,6 +807,18 @@ div.informations25{
      border: 1px black solid
 }
 
+div.informations26{
+     width: 131px; 
+     height: 0px; 
+     left: 69px; 
+     top: 2283px; 
+     position: absolute; 
+     transform: rotate(90deg); 
+     transform-origin: 0 0; 
+     opacity: 0.90; 
+     border: 1px black solid
+}
+
 /* Page3 */
 
 div.fond{
