@@ -551,12 +551,23 @@ div.informations3{
      word-wrap: break-word
 }
 
-div.informations4{
+img.informations4{
      width: 211px; 
      height: 111px; 
      left: -55px; 
      top: 0px; 
      position: absolute;
+}
+
+div.informations5{
+     width: 424px; 
+     height: 0px; 
+     left: 138px; 
+     top: 324px; 
+     position: absolute; 
+     transform: rotate(90deg); 
+     transform-origin: 0 0; 
+     border: 1px black solid
 }
 
 /* Page3 */
