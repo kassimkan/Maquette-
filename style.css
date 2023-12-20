@@ -570,6 +570,19 @@ div.informations5{
      border: 1px black solid
 }
 
+div.informations6{
+     width: 465px; 
+     height: 64px; 
+     left: 138px; 
+     top: 226px; 
+     position: absolute; 
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 64px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+     word-wrap: break-word
+}
+
 /* Page3 */
 
 div.fond{
