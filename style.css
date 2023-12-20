@@ -551,6 +551,14 @@ div.informations3{
      word-wrap: break-word
 }
 
+div.informations4{
+     width: 211px; 
+     height: 111px; 
+     left: -55px; 
+     top: 0px; 
+     position: absolute;
+}
+
 /* Page3 */
 
 div.fond{
