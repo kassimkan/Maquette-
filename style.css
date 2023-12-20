@@ -767,7 +767,16 @@ div.informations21{
      font-weight: 700; 
      word-wrap: break-word
 }
-     
+
+div.informations22{
+     width: 175px; 
+     height: 0px; 
+     left: 1171px; 
+     top: 1614px; 
+     position: absolute; 
+     border: 1px black solid
+}
+
 /* Page3 */
 
 div.fond{
