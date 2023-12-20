@@ -664,12 +664,25 @@ div.informations13{
      background: rgba(51, 26, 0, 0.85)
 }
 
-div.informations14{
+img.informations14{
      width: 211px; 
      height: 111px; 
      left: 51px; 
      top: 1px; 
      position: absolute;
+}
+
+div.informations15{
+     width: 1710px; 
+     height: 55px; 
+     left: 290px; 
+     top: 28px; 
+     position: absolute; 
+     color: white; 
+     font-size: 30px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+     word-wrap: break-word;
 }
 
 /* Page3 */
