@@ -605,6 +605,17 @@ div.informations8{
      word-wrap: break-word
 }
 
+div.informations9{
+     width: 231px; 
+     height: 0px; 
+     left: 740px; 
+     top: 2642px; 
+     position: absolute; 
+     transform: rotate(90.25deg); 
+     transform-origin: 0 0; 
+     border: 1px white solid
+}
+
 /* Page3 */
 
 div.fond{
