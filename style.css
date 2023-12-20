@@ -694,6 +694,15 @@ div.informations16{
      background: rgba(51, 26, 0, 0.40)
 }
 
+div.informations17{
+     width: 366px; 
+     height: 38px; 
+     left: 156px; 
+     top: 354px; 
+     position: absolute; 
+     background: rgba(51, 26, 0, 0.40)
+}
+
 /* Page3 */
 
 div.fond{
