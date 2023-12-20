@@ -583,6 +583,15 @@ div.informations6{
      word-wrap: break-word
 }
 
+div.informations7{
+     width: 152px; 
+     height: 43px; 
+     left: 138px; 
+     top: 762px; 
+     position: absolute; 
+     background: rgba(51, 26, 0, 0.85)
+}
+
 /* Page3 */
 
 div.fond{
