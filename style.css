@@ -655,6 +655,15 @@ div.informations12{
      word-wrap: break-word;
 }
 
+div.informations13{
+     width: 1459px; 
+     height: 144.61px; 
+     left: 0px; 
+     top: 0.49px; 
+     position: absolute; 
+     background: rgba(51, 26, 0, 0.85)
+}
+
 /* Page3 */
 
 div.fond{
