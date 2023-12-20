@@ -523,6 +523,18 @@ div.informations1{
      font-weight: 400;
 }
 
+div.informations2{
+     width: 407px; 
+     height: 127px; 
+     left: 789px; 
+     top: 2738px; 
+     position: absolute; 
+     color: white; 
+     font-size: 32px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400;
+}
+
 /* Page3 */
 
 div.fond{
