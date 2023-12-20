@@ -624,6 +624,19 @@ img.informations10{
      position: absolute;
 }
 
+div.informations11{
+     width: 447px; 
+     height: 210px; 
+     left: 862px; 
+     top: 283px; 
+     position: absolute;
+     color: black; 
+     font-size: 24px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+     word-wrap: break-word
+}
+
 /* Page3 */
 
 div.fond{
