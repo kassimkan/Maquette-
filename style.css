@@ -508,6 +508,7 @@ div.informations{
      font-size: 40px; 
      font-family: Libre Bodoni; 
      font-weight: 400;
+     word-wrap: break-word
 }
 
 div.informations1{
@@ -521,6 +522,7 @@ div.informations1{
      font-size: 40px; 
      font-family: Libre Bodoni; 
      font-weight: 400;
+     word-wrap: break-word
 }
 
 div.informations2{
@@ -533,6 +535,20 @@ div.informations2{
      font-size: 32px; 
      font-family: Libre Bodoni; 
      font-weight: 400;
+     word-wrap: break-word
+}
+
+div.informations3{
+     width: 495px; 
+     height: 401px; 
+     left: 156px; 
+     top: 324px; 
+     position: absolute; 
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 20px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400;
+     word-wrap: break-word
 }
 
 /* Page3 */
