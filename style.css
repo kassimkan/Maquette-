@@ -746,6 +746,12 @@ div.informations20{
      font-style: italic; 
      font-weight: 700; 
      word-wrap: break-word
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 36px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+     word-wrap: break-word
+}
      
 /* Page3 */
 
