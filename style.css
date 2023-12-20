@@ -642,6 +642,19 @@ div.informations11{
      word-wrap: break-word
 }
 
+div.informations12{
+     width: 388px; 
+     height: 51px; 
+     left: 862px; 
+     top: 528px; 
+     position: absolute; 
+     color: rgba(51, 26, 0, 0.85); 
+     font-size: 64px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+     word-wrap: break-word;
+}
+
 /* Page3 */
 
 div.fond{
