@@ -712,6 +712,14 @@ div.informations18{
      background: rgba(51, 26, 0, 0.40)
 }
 
+div.informations19{
+     width: 285px; 
+     height: 765px; 
+     left: 122px; 
+     top: 1688px; 
+     position: absolute; 
+     text-align: center;
+     
 /* Page3 */
 
 div.fond{
