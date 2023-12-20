@@ -592,6 +592,19 @@ div.informations7{
      background: rgba(51, 26, 0, 0.85)
 }
 
+div.informations8{
+     width: 100px; 
+     height: 35px; 
+     left: 164px; 
+     top: 773px; 
+     position: absolute; 
+     color: white; 
+     font-size: 20px; 
+     font-family: Libre Bodoni; 
+     font-weight: 400; 
+     word-wrap: break-word
+}
+
 /* Page3 */
 
 div.fond{
