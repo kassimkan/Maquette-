@@ -616,6 +616,14 @@ div.informations9{
      border: 1px white solid
 }
 
+img.informations10{
+     width: 1440px; 
+     height: 666px; 
+     left: 0px; 
+     top: 880px; 
+     position: absolute;
+}
+
 /* Page3 */
 
 div.fond{
